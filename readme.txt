@@ -6,3 +6,5 @@ Creating a new branch is quick.
 This is a test!!!
 Creating a new branch is quick and simple.
 新的分支
+bug
+测试
